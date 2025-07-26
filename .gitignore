@@ -1,0 +1,12 @@
+# Ignore Composer vendor
+/php/vendor/
+
+# Ignore Docker volumes (optional, if you use bind volumes)
+/mysql_data/
+
+# Ignore IDE and OS files
+*.log
+*.env
+.DS_Store
+.vscode/
+.idea/
